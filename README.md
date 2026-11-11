@@ -1,0 +1,1 @@
+Lights Off: the daily episode video is stored here for a few minutes so the posting service can read it. Each video is deleted automatically after 3 days.
